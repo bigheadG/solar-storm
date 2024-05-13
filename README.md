@@ -7,10 +7,13 @@ Go to https://sdo.gsfc.nasa.gov/assets/img/latest/ will see all of data files.
 Or go to https://sdo.gsfc.nasa.gov/data/  page copy the ip address.
 <img width="644" alt="image" src="https://github.com/bigheadG/solar-storm/assets/2010446/3318de8d-c5b5-4a79-bb54-a9b13ea5457e">
 
-Ask chatGPT: 
+Ask chatGPT:
+
+
 <img width="797" alt="image" src="https://github.com/bigheadG/solar-storm/assets/2010446/cc7f67e9-5be3-48d6-8acb-693d718cc962">
 
-Copy the program to IDE and run:
+
+Copy the code to IDE and run:
 
 
 
